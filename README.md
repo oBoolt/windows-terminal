@@ -6,4 +6,4 @@ Um tema usando `oh-my-posh` feito por oBoolt
 
 ---
 
-![screenshot of this theme](./resources/screenshot.jpg)
+![screenshot of this theme](./resources/screenshot.png)
