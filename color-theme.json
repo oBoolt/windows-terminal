@@ -1,0 +1,23 @@
+{
+  "background": "#2D2A2E",
+  "black": "#2D2A2E",
+  "blue": "#6699DF",
+  "brightBlack": "#676568",
+  "brightBlue": "#6699DF",
+  "brightCyan": "#78DCE8",
+  "brightGreen": "#A9DC76",
+  "brightPurple": "#AB9DF2",
+  "brightRed": "#FF6188",
+  "brightWhite": "#FCFCFA",
+  "brightYellow": "#FFD866",
+  "cursorColor": "#FFFFFF",
+  "cyan": "#78DCE8",
+  "foreground": "#FCFCFA",
+  "green": "#A9DC76",
+  "name": "Monokai Pro",
+  "purple": "#AB9DF2",
+  "red": "#FF6188",
+  "selectionBackground": "#FFFFFF",
+  "white": "#FCFCFA",
+  "yellow": "#FFD866"
+}
